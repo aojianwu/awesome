@@ -15,6 +15,9 @@
 
 *others:*
 
+* [capstone](https://github.com/aquynh/capstone) -Capstone disassembly/disassembler framework: Core (Arm, Arm64, M68K, Mips, PPC, Sparc, SystemZ, X86, X86_64, XCore) + bindings (Python, Java, Ocaml, PowerShell) 
+* [PolyHook](https://github.com/stevemk14ebr/PolyHook) - x86/x64 Hooking Library
 * [InjectCollection](https://github.com/AzureGreen/InjectCollection)
+
 
 
